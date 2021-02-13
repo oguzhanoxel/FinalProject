@@ -7,9 +7,11 @@ namespace Business.Constants
 {
     public static class Messages
     {
+        public static string Dummy = "Dummy";
         public static string ProductAdded = "Product Added";
         public static string ProductNameInvalid = "Invaled product name";
         public static string MaintenanceTime = "System is under maintenance";
         public static string ProductListed = "Products listed";
+
     }
 }
